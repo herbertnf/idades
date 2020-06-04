@@ -8,7 +8,7 @@
         document.write(frase);
     }
 
-    var minhaIdade = 18;
+    var minhaIdade = 27;
     var idadeIrmao = 15;
 
     mostra("Nossa diferença de idade é " + (minhaIdade - idadeIrmao));
