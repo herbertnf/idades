@@ -9,7 +9,7 @@
     }
 
     var minhaIdade = 27;
-    var idadeIrmao = 15;
+    var idadeIrmao = 21;
 
     mostra("Nossa diferença de idade é " + (minhaIdade - idadeIrmao));
     pulaLinha();
